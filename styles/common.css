@@ -1,0 +1,27 @@
+body {
+  text-align: center;
+  background-color: bisque;
+  margin: 40px;
+}
+
+H1 {
+  font-family: "Nunito", sans-serif;
+  color: brown;
+  font-size: 40px;
+}
+
+p {
+  color: darkgreen;
+  font-family: sans-serif;
+}
+
+a {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: red;
+  text-decoration: none;
+}
+
+a:hover {
+  color: blue;
+  /* text-decoration: underline; */
+}

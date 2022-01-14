@@ -1,0 +1,36 @@
+p {
+    font-family: sans-serif;
+    color: darkgreen;
+    size: 30px;
+    margin-left: 250px;
+    text-align: left;
+}
+
+ol {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* text-align: left; */
+    color: darkblue;
+    list-style: none;
+    width:500px;
+    margin: 36px auto 0 auto;
+    /* text-align: left; */
+    padding:0;
+}
+
+a {
+    padding: 12px 48px;
+    background-color: lightblue;
+    border: 1px solid darkblue;
+    border-radius: 10px;
+    
+}
+
+li {
+    list-style: none;
+    padding: 20px;
+    margin: 12px auto 12px auto;
+    border: 1px solid ;
+    border-radius: 4px;
+    box-shadow: 2px 2px;
+    background-color: cadetblue;
+}
